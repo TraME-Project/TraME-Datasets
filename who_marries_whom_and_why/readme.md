@@ -1,1 +1,1 @@
-Data from Choo, Siow, "Who marries whom and why", Journal of Political Economy, 2006.
+Data from 'Who marries whom and why', by Eugene Choo and Aloysius Siow, 2006 JPE.
